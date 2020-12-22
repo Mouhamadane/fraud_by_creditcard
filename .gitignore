@@ -1,0 +1,21 @@
+build/
+dist/
+dataset/
+dataset/
+.cache/
+
+.idea/
+.DS_Store
+.venv/
+.ipynb_checkpoints
+
+.coverage*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+.pytest_cache/
+
+# vscode
+.vscode/
