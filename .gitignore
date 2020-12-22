@@ -1,9 +1,6 @@
 build/
 dist/
 dataset/
-dataset/
-.cache/
-
 .idea/
 .DS_Store
 .venv/
