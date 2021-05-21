@@ -91,5 +91,4 @@ def get_title(name: str) -> str:
     if title_search:
         return title_search.group(1)
     return ""
-def
 
